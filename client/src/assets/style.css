@@ -1,0 +1,6 @@
+@layer base {
+    body {
+        @apply text-base; /* lub text-lg, text-sm, itp. */
+        font-size: 14px;   /* jeśli chcesz jawnie */
+    }
+}

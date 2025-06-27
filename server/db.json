@@ -1,0 +1,180 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "ticketId": 1,
+      "author": "Sebastian Nowak",
+      "content": "Strona zwraca błąd 500",
+      "createdAt": "2025-06-26T19:41:56.012Z"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "category": null,
+      "priority": "critical",
+      "title": "Nie działa strona internetowa",
+      "user": "Sebastian Nowak",
+      "description": "Strona zwraca błąd 500",
+      "createdAt": "2025-06-26T19:41:56.012Z"
+    },
+    {
+      "id": 2,
+      "category": null,
+      "priority": "high",
+      "title": "Problem z bazą danych",
+      "user": "Adam Jankiewicz",
+      "status": "DTn8KelTGGWUtHe9LpqX_",
+      "description": "JWT",
+      "createdAt": "2025-06-26T19:44:30.058Z"
+    },
+    {
+      "id": 3,
+      "category": "RpWoU7dklShZo5hcpoZRX",
+      "priority": "critical",
+      "title": "Problem z klawiaturą",
+      "user": "Michał Konieczny",
+      "status": "DTn8KelTGGWUtHe9LpqX_",
+      "description": "Potrzebuje nowej klawiatury",
+      "createdAt": "2025-06-26T19:46:12.141Z"
+    },
+    {
+      "id": 6,
+      "category": "RpWoU7dklShZo5hcpoZRX",
+      "priority": "critical",
+      "title": "Awaria sprzętu sieciowego",
+      "user": "Jan Kowalski",
+      "status": "yycUPKV5JZug0GKKxq1x0",
+      "description": "Router przestał działać, brak dostępu do internetu w całym biurze.",
+      "createdAt": "2025-06-25T15:12:34.000Z"
+    },
+    {
+      "id": 7,
+      "category": "Vb81-FP3iAb5DzKW9diy0",
+      "priority": "medium",
+      "title": "Aktualizacja oprogramowania",
+      "user": "Ewa Nowak",
+      "status": "tEIYCAIxKBp4bk2vfJh1K",
+      "description": "Prośba o aktualizację wersji CMS do najnowszej.",
+      "createdAt": "2025-06-24T09:23:11.000Z"
+    },
+    {
+      "id": 8,
+      "category": null,
+      "priority": "low",
+      "title": "Zmiana ustawień konta",
+      "user": "Marta Wiśniewska",
+      "status": "OQBaQeVCgV-bIGg86VMN5",
+      "description": "Prośba o dodanie nowej metody płatności.",
+      "createdAt": "2025-06-23T11:45:22.000Z"
+    },
+    {
+      "id": 9,
+      "category": "RpWoU7dklShZo5hcpoZRX",
+      "priority": "high",
+      "title": "Naprawa laptopa",
+      "user": "Tomasz Zieliński",
+      "status": "DTn8KelTGGWUtHe9LpqX_",
+      "description": "Laptop się nie włącza, konieczna diagnoza.",
+      "createdAt": "2025-06-22T17:30:00.000Z"
+    },
+    {
+      "id": 10,
+      "category": "Vb81-FP3iAb5DzKW9diy0",
+      "priority": "critical",
+      "title": "Awaria serwera",
+      "user": "Katarzyna Mazur",
+      "status": "yycUPKV5JZug0GKKxq1x0",
+      "description": "Serwer główny nie odpowiada, brak dostępu do danych.",
+      "createdAt": "2025-06-21T06:15:45.000Z"
+    },
+    {
+      "id": 11,
+      "category": null,
+      "priority": "medium",
+      "title": "Optymalizacja zapytań SQL",
+      "user": "Łukasz Krawczyk",
+      "status": "tEIYCAIxKBp4bk2vfJh1K",
+      "description": "Zapytania SQL działają zbyt wolno, potrzeba optymalizacji.",
+      "createdAt": "2025-06-20T14:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "category": "RpWoU7dklShZo5hcpoZRX",
+      "priority": "low",
+      "title": "Instalacja nowego sprzętu",
+      "user": "Anna Lewandowska",
+      "status": "OQBaQeVCgV-bIGg86VMN5",
+      "description": "Potrzebujemy zainstalować nowe monitory dla zespołu.",
+      "createdAt": "2025-06-19T12:45:00.000Z"
+    },
+    {
+      "id": 13,
+      "category": "Vb81-FP3iAb5DzKW9diy0",
+      "priority": "high",
+      "title": "Dodanie modułu raportów",
+      "user": "Piotr Wójcik",
+      "status": "DTn8KelTGGWUtHe9LpqX_",
+      "description": "Moduł raportów ma umożliwiać generowanie miesięcznych zestawień.",
+      "createdAt": "2025-06-18T08:30:00.000Z"
+    },
+    {
+      "id": 14,
+      "category": null,
+      "priority": "critical",
+      "title": "Błąd logowania",
+      "user": "Joanna Nowak",
+      "status": "DTn8KelTGGWUtHe9LpqX_",
+      "description": "Użytkownicy nie mogą się zalogować do systemu.",
+      "createdAt": "2025-06-17T07:15:00.000Z"
+    },
+    {
+      "id": 15,
+      "category": "RpWoU7dklShZo5hcpoZRX",
+      "priority": "medium",
+      "title": "Problemy z drukarką",
+      "user": "Michał Kowalski",
+      "status": "OQBaQeVCgV-bIGg86VMN5",
+      "description": "Drukarka nie drukuje dwustronnie, wymaga konfiguracji.",
+      "createdAt": "2025-06-16T10:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "category": "Vb81-FP3iAb5DzKW9diy0",
+      "priority": "low",
+      "title": "Zmiana layoutu strony głównej",
+      "user": "Anna Wiśniewska",
+      "status": "tEIYCAIxKBp4bk2vfJh1K",
+      "description": "Propozycja nowego layoutu dla lepszej czytelności.",
+      "createdAt": "2025-06-15T09:45:00.000Z"
+    }
+  ],
+  "statuses": [
+    {
+      "key": "DTn8KelTGGWUtHe9LpqX_",
+      "label": "Nowe"
+    },
+    {
+      "key": "OQBaQeVCgV-bIGg86VMN5",
+      "label": "W realizacji"
+    },
+    {
+      "key": "yycUPKV5JZug0GKKxq1x0",
+      "label": "Oddane do testów"
+    },
+    {
+      "key": "tEIYCAIxKBp4bk2vfJh1K",
+      "label": "Gotowe"
+    }
+  ],
+  "categories": [
+    {
+      "key": "RpWoU7dklShZo5hcpoZRX",
+      "label": "Hardware"
+    },
+    {
+      "key": "Vb81-FP3iAb5DzKW9diy0",
+      "label": "Frontend"
+    }
+  ]
+}
